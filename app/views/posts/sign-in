@@ -1,0 +1,9 @@
+<div class="header"> 
+	<div class="menu">
+		<div class="left">
+			<a href="<%= request.env["HTTP_HOST"] %>" class="logo" title="AgriDoctor system">blog</a>
+			<input type="text" value="" placeholder="Search post, friend..." class="search"/>
+		</div>
+		<div class="right">
+			<a href="#" title="Sign In" class="sign_in"
+		</div>
